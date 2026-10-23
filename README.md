@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **Fullstack Web development**
 - How to reach me **michaeljohn.p.arevalo@gmail.com**
-- All of my future projects are available at **[michaeljohnarevalo.vercel.app](https://michaeljohnarevalo.vercel.app)**
+- All of my future projects are available at **[michaeljohnarevalo.dev](https://michaeljohnarevalo.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
